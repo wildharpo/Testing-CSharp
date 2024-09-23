@@ -2,6 +2,6 @@
 {
     public interface INumberFormatter
     {
-        int GetFormattedNumber(string providedNumber);
+        long GetFormattedNumber(string providedNumber);
     }
 }
